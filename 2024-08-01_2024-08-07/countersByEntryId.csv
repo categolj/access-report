@@ -1,0 +1,249 @@
+entryId,title,access
+746,Docker Desktop for Mac代替のOrbStackがすごい,104
+763,Spring Securityで2要素認証 (2FA) を行う方法,83
+443,誤解しがちなThreadPoolTaskExecutorの設定,81
+377,SpringのBean定義(Java Config)で型が重複する場合のインジェクション方法,75
+757,Spring Securityでログイン時にパスワードハッシュアルゴリズムを変更する方法,67
+739,SpringのRestTemplateによるHTTPリクエストのリトライをClientHttpRequestInterceptorで実装する,54
+790,llama-cpp-pythonを使ってLlama 3モデルを使ったOpenAI互換サーバーを起動しSpring AIからアクセスする,54
+467,SpringのWebClientのtimeoutとretryについて,44
+632,SpringのWebClientのHTTP Request/Responseログを出力するメモ,39
+376,Spring Bootの@ ConfigurationPropertiesで型安全なプロパティ設定,38
+770,llama-cpp-pythonを使ってローカルLLMでテキスト生成とOpenAI互換サーバーを立てる,36
+371,Spring Boot + Doma2を使おう,29
+792,HTTP/3に対応したcurlをHomebrewでインストールするメモ,27
+803,OllamaをOpenAI互換サーバーとして使用し、Spring AIからアクセスする,27
+787,llama-cpp-pythonを使ってGemmaモデルを使ったOpenAI互換サーバーを起動しSpring AIからアクセスする,23
+108,Spring MVCのフォームでコードリストからselect/optionタグを生成する,22
+417,はじめてのSpring WebFlux (その1 - Spring WebFluxを試す),21
+540,自己署名証明書(オレオレ証明書)をMacで信頼させるメモ,20
+626,Spring Boot 2.4で導入されたConfig TreeでKubernetesのSecretの値をSpring Bootアプリのプロパティに設定,19
+656,Thymeleafテンプレートを使ってJdbcTemplateで動的なSQLを実行する,18
+802,VMware Tanzu Application Service for VMs 6.0 (Small Footprint版) をAWSにインストールするメモ,18
+268,Spring Bootの組み込みTomcatでHTTPS対応 springboot,17
+408,Spring Batch + Spring Bootで複数DataSourceを扱うときの設定,16
+815,DynamoDB互換のScyllaDB AlternatorにSpring Bootでアクセスするメモ,16
+695,Spring Framework 6から導入される宣言的HTTP Clientを試す,15
+745,Spring IntegrationでPollingベースのOutboxパターンを実装する,15
+115,Log4JDBCでSQLログを出力する,14
+327,OpenSSLで作成したRSAの鍵を使ってJavaで暗号化・復号するサンプル,11
+544,ytt(YAML Templating Tool)入門 - Templating編,11
+37,KVMのイメージを別環境にインポート,10
+353,Remove 'jsessionid=xxxx' from URL in Spring Boot App,10
+800,"JJUG CCC 2024 Springで""知名度は高くないけど便利なJavaライブラリ集""について話してきました。",10
+812,SDKを使わずにSpringのRestTemplate/RestClientを使ってS3 APIにアクセスする,10
+138,Javaのソースコードレビュー観点をまとめてみた,9
+316,Spring Securityの暗号化・復号ユーティリティ,9
+517,Kubernetesクラスタ内からcurlを実行するメモ,9
+662,SpringでDIを使うための最小サンプル,9
+761,Tanzu Kubernetes GridのPrometheus Packageでremote-write-receiverとagent modeをセットアップして複数のKubernetesクラスタを監視する,9
+352,Javaの全角・半角変換ユーティリティ,8
+758,JupyterでJava Kernelを使うメモ,8
+764,Linux Machine上にVMware Greenplum® 7をOrbStack上のRocky Linuxにインストールするメモ,8
+448,Spring Boot 2とMicrometerでPrometheusを使うときの便利PromQLメモ,7
+737,Tanzu Application PlatformでCronJobのWorkloadを作成する,7
+783,HonoアプリをTanzu Application Platformにデプロイするメモ,7
+813,MicrometerのメトリクスにJVMのバージョン情報を付与するPromQLメモ,7
+141,MacへJenkinsインストールメモ,6
+444,Synology NASにKeycloak on Dockerをインストールする,6
+494,Reactorで返り値がMono<Void>の処理の後、引数をそのまま返すときのショートカット,6
+598,Cloud Native Buildpacks Tutorial - 5.2. ┗ heroku/buildpacks:18 BuilderでJavaアプリ(Spring Boot)のOCIイメージを作成,6
+623,Deploymentで管理されたPodを再起動するメモ,6
+725,Tanzu Application Platformをkapp-controllerを使ったGitOpsでインストールするメモ,6
+771,java-llama.cppを使ってローカルLLMでテキスト生成する,6
+784,Prometheusをubuntu上にインストールしremote writeを受け付けるメモ,6
+793,Reactor NettyでHTTP/3対応サーバーを作る,6
+795,Wavefront ProxyをRocky Linuxにインストールするメモ,6
+261,既存のTomcatユーザーが1アプリ1組み込みサーバーなマイクロサービスアーキテクチャ時代に簡単に追いつく方法,5
+302,Java8でIteratorからStreamに変換する方法,5
+431,Spring Sessionを使ったLegacy JavaアプリケーションからSpring BootへのMigration,5
+600,Cloud Foundry上で実行したSpring BatchアプリのMetricsをPrometheus Pushgatewayに送る,5
+755,KindでAzure ADのOpenID Connectと連携してRBACを設定するメモ,5
+782,自宅サーバーにMicroK8sをインストールメモ,5
+791,TektonのTask中にTanzu Application WorkloadのWorkload名を参照する,5
+148,ThymeLeafでjavascriptにcontextPathを設定する,4
+290,Spring Cloud Configで動的コンフィギュレーション管理,4
+294,"組み込みTomcat, Jetty, Undertowの起動時間を比べてみた",4
+339,SpringのCache Abstractionについて,4
+349,Getting Started with Spring Boot 1.3 & DevTools,4
+354,How to use the TCP client provided by Spring Framework (Part 1/2),4
+400,Nexus RepositoryのDocker Registryを使ってオフラインでConcourse CIを使う,4
+446,Kubernetes NativeなFaaSであるriff 0.0.3を試す,4
+475,Spring BatchをCloud Foundry上で実行する際のTips,4
+489,Reactor Testで鍛えるReactor脳トレ,4
+492,Spring Boot on Cloud FoundryからAmazon RDS / Cloud SQLへの通信を暗号化する,4
+502,Spring WebFlux.fnハンズオン - 3. YAVIによるValidationの実装,4
+505,Spring WebFlux.fnハンズオン - 6. 例外ハンドリングの改善,4
+652,Tanzu Kubernetes Grid on vSphereを1.3.0 -> 1.3.1-patch1にアップデートするメモ,4
+690,Cloud Native BuildpacksでNext.jsのアプリをビルドするメモ,4
+749,Spring 6.1でYAVIがSpring MVCの@Valid/Validatedで使いやすくなった,4
+751,Terminatingのまま消えないNamespaceを強制的に削除するTip,4
+752,Spring Bootを使わずEmbedded TomcatでWebMvc.fnを使う,4
+756,Tanzu Application Platformでtype=serverのWorkloadに対してIngressを作る,4
+801,VMware Tanzu Operations Manager 3.0とBOSH DirectorをAWSにインストールするメモ,4
+67,「プログラマのための論理パズル」(1)甘いもの好き,3
+142,LinuxへWebLogic12cインストールメモ,3
+191,Doma+Springの連携サンプル,3
+255,HTML5でファイルをドラッグ＆ドロップして画像を表示するサンプル,3
+263,スタンドアローンJSF2.2+PrimeFaces入門メモ,3
+398,SendGrid x Spring BootをPivotal Web Services(Cloud Foundry)で試す,3
+455,Cloud FoundryのJava BuildpackでJava 10を使う,3
+483,Lombokの@Builderの代わりにIntelliJ IDEAのBuilder生成機能を使う,3
+525,Evictedなpodをまとめて削除するメモ,3
+560,Kubernetesハンズオン - 10. RBACによるKubernetes APIアクセス制御,3
+601,kubectlで全Resource一覧を表示するメモ,3
+613,Cloud Native Buildpacks Tutorial - 8.4. ┗ Cloud Native BuildpacksでビルドしたOCIイメージをAzure Container Instancesへデプロイ,3
+638,Elastic Cloud on Kubernetes (ECK)のElasticsearchとKibanaにcert-managerとIngressを使ってLet's Encryptの証明書を適用するメモ,3
+667,kindでLocal RegistryをTLSを有効にして使用するメモ,3
+773,Tanzu Application Platformで特定のBuildpackだけ更新するメモ,3
+774,Tanzu Application Platform 1.7でJava 21を使用するメモ,3
+778,Tanzu Application Platform 1.7 (Full Profile) をEKSにインストールするメモ,3
+779,Virtual Threads! Checkpoint Restore! Javaの進化に対応するSpring Framework 6.1 / Spring Boot 3.2の注目機能紹介,3
+805,VMware Tanzu Application Service for VMs 6.0 (Small Footprint版) on AWSでSpot Instanceを使用するメモ,3
+811,Healthwath 2.3をインストールするメモ,3
+814,Cassandra互換のScyllaDBにSpring Bootでアクセスするメモ,3
+85,JVMのヒープ・GCチューニングまとめ,2
+125,RedHat系Linuxの固定IP設定,2
+150,JPA2.0(Hibernate4)ノウハウまとめ,2
+175,Oracleで特定のOSユーザーが実行中のSQLを出力するSQL,2
+180,Mavenプロジェクトを普通のWTPプロジェクトに変換してAntのbuild.xmlの作成するスクリプト,2
+186,Oracle Coherenceを使うときに特にアーキテクトの人が気をつけるべきこと,2
+199,Javaプログラム内でHTTPプロキシの認証を突破するための設定,2
+259,途中からFlywayでDBマイグレーション導入するときの既存DBへのセットアップ,2
+281,Spring Bootで最速Servlet開発環境構築 springboot,2
+297,Spring Boot + DockerでAWS Elastic Beanstalkにデプロイ,2
+301,Spring MVC + Spring BootでJackson2のdataformatを変更する方法,2
+333,Spring Data JPAをCDIから使う,2
+341,JRebel でSpring Bootアプリケーションの快適リローディング (IntelliJ IDEA編),2
+347,Try Apache Geode quickly with Docker,2
+375,Spring MVCの@DateTimeFormatで和暦パターンを扱う方法,2
+403,Spring Data RESTのTips,2
+413,「RxJavaリアクティブプログラミング」はSpring 5 / Reactorを勉強するのにも役に立つ書籍,2
+414,NUC6i7KYK買った。,2
+435,Kubo(Kubernetes on BOSH)をGCPにデプロイ,2
+445,Spring Boot 1/2のアプリにKeycloakのOpenID Connectを使ってシングルサインオン,2
+450,OpenSSLで作成したTLS証明書をSpring Bootアプリに設定,2
+490,Metrics Forwarder Serviceを使ってSpring Boot ActuatorのメトリクスをPWS/PCFに送る,2
+518,OAuth2 ProxyをCloud FoundryのSidecarとしてデプロイする,2
+545,ytt(YAML Templating Tool)入門 - Overlay編,2
+557,Kubernetesハンズオン - 7. IngressによるL7ロードバランシング,2
+629,Ubuntu BionicでDNSの設定変更メモ,2
+645,YAVIでValue ObjectのValidation (Records対応),2
+664,Tanzu Kubernetes GridでgVisorを使用するメモ,2
+678,自宅で運用しているTanzu Kubernetes Grid及びTanzu Community Editionのk8sクラスタ on vSphereをvSANなしでホスト跨ぎで冗長化する方法,2
+713,Cloud Native BuildpacksでRustのWebアプリをビルドするメモ,2
+715,5年ぶりのメジャーアップデート! Spring Framework 6 & Spring Boot 3,2
+728,JavaでWebAssemblyを生成してみる,2
+730,HashiCorp VaultをOpenID Connect Providerとして使用する,2
+731,Tanzu Application PlatformのWorkloadからHashiCorp Vault上のSecretにアクセスする,2
+733,Tanzu Application Platform 1.4 (Iterate Profile) をKindにインストールするメモ,2
+734,Tanzu Application PlatformのWorkloadをDatadogでモニタリングする,2
+738,Tanzu Application Platform 1.5 (Iterate Profile) をKindにインストールするメモ,2
+753,Tanzu Application PlatformにデプロイするSpring BootアプリをDockerfileでビルドする,2
+759,OrbStackのnative Kubernetesサポート,2
+772,CRaCに対応したSpring BootアプリのDockerイメージを作るメモ,2
+788,Tanzu Application Platform 1.9 (Full Profile) をEKSにインストールするメモ,2
+794,limaを使ってQEMUでApple Silicon上のx86_64用Docker Daemonを起動するメモ,2
+804,Upstashの Serverless KafkaにSpring Bootでアクセスするメモ,2
+807,GraalWasmでJavaからWebAssemblyを呼び出すメモ,2
+9,KVMでゲストOSイメージのコピー,1
+25,clojure-maven-pluginを使ってMavenでClojure+Javaビルド,1
+50,Spring Data Redis(1.0.0.M1)を試す,1
+53,Ubuntuでcheck-config的なことをする,1
+74,MongoDBのクエリメモ,1
+76,宣教師と人食い人種問題,1
+79,ダイクストラ法で単一始点最短経路計算,1
+88,Javaの各ロギングライブラリのログレベル対応表,1
+94,ssh経由でxを飛ばしてvirt-managerを使用している場合にコンソールから抜けられなくなるのを回避,1
+130,Hyper-VへのCentOSインストールメモ,1
+155,MacへTypeScriptインストールからjQueryでHello Worldまで,1
+159,STSでSpringMVC+SpringDataJPA+HibernateなPre-Configuredテンプレートプロジェクトをクイックスタート! jsug,1
+168,お名前.com VPSセットアップメモ,1
+182,WebLogicメモ,1
+203,「はじめてのBootstrap」が出版されます,1
+208,【Spring Advent Calendar 2013 6日目 Spring MVC + Bean Validationでフォームの未入力フィールドをnullにする spadc13,1
+209,【Spring Advent Calendar 2013 8日目 Spring MVCのサンプルコードをコピペする際に気をつけること spadc13,1
+222,jBatch(JSR-352) on Java SE 環境 (Spring Batch編),1
+233,おれおれ証明書を使ってTomcatでHTTPSを扱う,1
+236,Java8のcomputeIfAbsentとラムダを使ってメモ化,1
+238,brew service使えばlaunchctl叩かなくてよい,1
+253,tomee-maven-pluginで組み込みTomEE入りJava EE 6アプリを作る,1
+256,HTML5でクリップボードの画像をペーストするサンプル,1
+265,Spring BootとSpring LoadedでサクサクHot Reloading Java Webアプリ開発 springboot,1
+269,Spring Bootアプリ用起動スクリプト springboot,1
+276,KeyStoreに保存した秘密鍵を使って Spring Boot アプリに渡すパスワードを暗号化する,1
+286,SpringBoot 1.2でJersery (JAX-RS)を使う,1
+287,SpringMVC 4.1のProtocol Buffers対応を試す,1
+295,「はじめてのSpring Boot」が出版されました hajiboot,1
+313,Spring BootでJMSを試すの簡単すぎワロタ,1
+315,MessagePack + Spring MVC or JAX-RS(Jersery) on Spring Boot,1
+318,JavaCVで画像処理,1
+328,DockerでGlassFish4,1
+331,DIコンテナで実現する簡易プラグイン機構,1
+334,Docker Machine + DigitalOceanでサーバー構築,1
+385,AWSにPivotal Cloud Foundry 1.7をインストール,1
+394,Spring Bootを学ぶ時に読むべき本,1
+406,C言語で書かれたWebアプリをCloud Foundryにデプロイする,1
+428,BOSH Lite + UAAをインストールする,1
+432,Concourse CIのVault連携メモ,1
+438,Echo Serverを実装して学ぶReactor Nettyによるストリーム処理,1
+439,Echo Clientを実装して学ぶReactor NettyのTCP Client,1
+441,Synology NASにMinio on DockerをインストールしてS3互換サーバーにする,1
+447,KubernetesのRBACでNamespace毎に専用ServiceAccountを作成,1
+461,"Java用Validatorライブラリ""YAVI""(ヤヴァイ)の紹介",1
+465,Pivotal Container Service (PKS)でPrometheus Operatorを使うメモ,1
+471,Cloud Foundry上に開発/デモ用データベースをデプロイするメモ,1
+473,HelmでSpinnakerをインストールするメモ,1
+484,Vaultの認証にLDAPを使用するメモ,1
+493,Spring Boot ActuatorのThreaddumpエンドでライブスレッド名を取得する,1
+497,Open Service Broker APIを使ってCloud FoundryとKubernetesでService Brokerを相互運用する,1
+498,Pivotal Application Service上のアプリメトリクスをPrometheusでScrapeする方法,1
+499,GKEでNodePort TypeのServiceに対してインターネットアクセス許可する,1
+503,Spring WebFlux.fnハンズオン - 4. R2DBCによるデータベースアクセス,1
+504,Spring WebFlux.fnハンズオン - 5. Web UIの追加,1
+513,Cloud Foundryハンズオン - 2. 簡単なアプリケーションをデプロイ (PHP編),1
+515,Cloud FoundryのSMB BrokerでAzure Filesを使う,1
+526,"Tanzu Kubernetes Grid Integration Edition (TKGI, 旧Enterprise PKS) 1.8をAWSにインストールするメモ",1
+542,(**DEPRECATED**) Cloud Native BuildpacksでGraalVMを使ったSpring Bootのnative imageのDocker image作成する,1
+547,Cloud Native BuildpacksでGraalVMを使ったSpring Bootのnative imageのDocker image作成する,1
+549,Quarks SecretでKubernetesのSecretをサーバーサイドで自動生成させる,1
+550,Cloud Native BuildpacksでSpring BootアプリのGraalVM Native Imageを作成しKnativeにデプロイする,1
+551,Kubernetesハンズオン - 1. Hello Kubernetes,1
+556,Kubernetesハンズオン - 6. 永続ボリュームの利用,1
+559,Kubernetesハンズオン - 9. Cloud Native Buildpacksでアプリケーションのコンテナイメージを作成,1
+607,Cloud Native Buildpacks Tutorial - 6.1. ┗ projectriff/builder:0.5.0 BuilderでCommandアプリのOCIイメージを作成,1
+628,Spring Boot 2.4で導入されたConfig Data APIをSpring Cloud Vaultで試す,1
+633,perlでPortのチェックをするメモ,1
+642,Tanzu Kubernetes Grid on vSphereを1.2.1 -> 1.3.0にアップデートするメモ,1
+646,PostgreSQLのJSON型とVIEWを使って異なるRead ModelとWrite Modelを作る (Spring Boot版),1
+647,愛犬が1歳を迎えたので買ってよかったもの・サービスをまとめる,1
+649,Carvel kwtでk8sクラスタ外から内部ドメイン名でService / Podへアクセスする,1
+650,Carvel kwtでk8sクラスタ内からローカル環境へアクセスする,1
+659,Bitnami Helm ChartでArgo CDをインストール及びArgo CDでyttを使用するメモ,1
+666,Tanzu Kubernetes Grid on vSphereを1.3.1-patch1 -> 1.4.0にアップデートするメモ,1
+674,Tanzu Community Editionのk8sクラスタにHarborをインストールするメモ,1
+675,Tanzu Kubernetes Grid及びTanzu Community Editionのk8sクラスタから自己署名証明書を使ったコンテナレジストリにアクセスするメモ,1
+679,Helm Chartをimgpkg bundle化してair-gapped環境にインストールできるようにする,1
+681,imgpkg bundle化したk8s manifests + ytt overlayをCarvel Package化する,1
+683,kpack on kind (K8s in Docker)でBuild Serviceによるコンテナイメージ管理をスモールスタート,1
+693,Tanzu Build ServiceをEKS上でインストール及びアップデートするメモ,1
+694,LegacyなJavaアプリをTanzu Application Platformにデプロイするまでのメモ,1
+696,YAVIによるValue ObjectのValidation,1
+702,TektonでTestcontainersを使うメモ (要privileged),1
+708,Tanzu Application Platform 1.2 (Full Profile) をAKSにインストールしAzure ADと連携するメモ - Self Signed編,1
+710,Tanzu Application Platform 1.2でTanzu Build Serviceのfull dependenciesをインストールする,1
+717,Tanzu Application PlatformでClusterBuilderのReadyがFalseから直らないときの対処メモ,1
+743,Tanzu Application PlatformでPre-ProvisionedなRabbitMQを使ってResourceClaim / ClassClaimを作る,1
+744,Spring Boot の最新情報ご紹介 (3.0 / 3.1 の新機能など) @ Java on Azure Day 2023,1
+750,Retrospective用ツールのPostfactoをHelmでインストールする,1
+762,Read Write ManyなPVが作れないKubernetes環境でRead Write ManyなPVを作れるようにするメモ,1
+769,DJLのPyTorchバックエンドでMPS (Metal Performance Shaders) を使うメモ,1
+775,VMware Tanzu Operations ManagerとBOSH DirectorをCLIでvSphereにインストールするメモ,1
+776,VMware Tanzu Application Service for VMs 5.0 (Small Footprint版) をCLIでvSphereにインストールするメモ,1
+785,Tanzu Application PlatformのContourをOpenTelemetryでTracingするメモ,1
+789,Kubernetesのノードのディスク使用量を減らすメモ,1
+796,roapiを使ってGoogle SheetsのスプレッドシートをPostgreSQLのクエリでアクセスするメモ,1
+799,Wavefront ProxyをUbuntu Jammyにインストールするメモ,1
+808,VMware Postgres for Tanzu Application Service 1.1をインストールするメモ,1
+809,VMware Tanzu Application Service for VMsのEmail NotificationsにSendGridを使うメモ,1
+810,CredHub Service Broker 1.6をインストールするメモ,1
