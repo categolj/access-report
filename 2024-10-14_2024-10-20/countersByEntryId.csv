@@ -1,0 +1,13 @@
+entryId,title,access
+540,自己署名証明書(オレオレ証明書)をMacで信頼させるメモ,2
+818,Spring BootでJWT認証・認可の設定メモ,2
+400,Nexus RepositoryのDocker Registryを使ってオフラインでConcourse CIを使う,1
+557,Kubernetesハンズオン - 7. IngressによるL7ロードバランシング,1
+695,Spring Framework 6から導入される宣言的HTTP Clientを試す,1
+734,Tanzu Application PlatformのWorkloadをDatadogでモニタリングする,1
+749,Spring 6.1でYAVIがSpring MVCの@Valid/Validatedで使いやすくなった,1
+753,Tanzu Application PlatformにデプロイするSpring BootアプリをDockerfileでビルドする,1
+765,Tanzu Application PlatformのコンポーネントをPrometheusのService Discovery対象から外す,1
+787,llama-cpp-pythonを使ってGemmaモデルを使ったOpenAI互換サーバーを起動しSpring AIからアクセスする,1
+793,Reactor NettyでHTTP/3対応サーバーを作る,1
+803,OllamaをOpenAI互換サーバーとして使用し、Spring AIからアクセスする,1
