@@ -1,0 +1,78 @@
+entryId,title,access
+867,Spring AIとgpt-ossでプライベートAIアプリを作るチュートリアル,18
+868,Tanzu for Valkey on Kubernetes 3.1をインストールするメモ,9
+847,Spring BatchのResourcelessJobRepositoryを使いメタデータを保存しないようにするメモ,8
+819,Spring BootでIAM Identity Center(旧AWS SSO)とSAML2連携してログインするメモ,7
+107,過去の各バージョンのFirefoxをダウンロードする方法,5
+632,SpringのWebClientのHTTP Request/Responseログを出力するメモ,5
+770,llama-cpp-pythonを使ってローカルLLMでテキスト生成とOpenAI互換サーバーを立てる,5
+443,誤解しがちなThreadPoolTaskExecutorの設定,4
+790,llama-cpp-pythonを使ってLlama 3モデルを使ったOpenAI互換サーバーを起動しSpring AIからアクセスする,4
+803,OllamaをOpenAI互換サーバーとして使用し、Spring AIからアクセスする,4
+843,llama.cppでGemma 3 27Bを動かしてSpring AIからアクセスする (MCP連携あり),4
+408,Spring Batch + Spring Bootで複数DataSourceを扱うときの設定,3
+792,HTTP/3に対応したcurlをHomebrewでインストールするメモ,3
+818,Spring BootでJWT認証・認可の設定メモ,3
+865,MongoDB互換のDocumentDBにSpring Boot + Testcontainersでアクセスするメモ,3
+376,Spring Bootの@ ConfigurationPropertiesで型安全なプロパティ設定,2
+540,自己署名証明書(オレオレ証明書)をMacで信頼させるメモ,2
+739,SpringのRestTemplateによるHTTPリクエストのリトライをClientHttpRequestInterceptorで実装する,2
+757,Spring Securityでログイン時にパスワードハッシュアルゴリズムを変更する方法,2
+763,Spring Securityで2要素認証 (2FA) を行う方法,2
+807,GraalWasmでJavaからWebAssemblyを呼び出すメモ,2
+820,Spring BootでMicrosoft Entra ID(旧Azure AD)とSAML2連携してログインするメモ,2
+825,"JJUG CCC 2024 Fallで""最近のSpring Bootの 便利機能を復習！""について話してきました。",2
+834,Minecraft Server (Java Edition)をKubernetesにインストールするメモ,2
+837,OpenTelemetry(OTLP)に対応したLGTM Observability基盤をBitnamiのHelm Chartで構築するメモ,2
+863,レバテックフリーランスで当ブログを紹介いただきました,2
+86,小数の２進数表現,1
+108,Spring MVCのフォームでコードリストからselect/optionタグを生成する,1
+115,Log4JDBCでSQLログを出力する,1
+129,第4回Twitter API勉強会でBootstrapついてLT発表してきました twtr_hack,1
+175,Oracleで特定のOSユーザーが実行中のSQLを出力するSQL,1
+268,Spring Bootの組み込みTomcatでHTTPS対応 springboot,1
+301,Spring MVC + Spring BootでJackson2のdataformatを変更する方法,1
+309,Browserify + Gulpでビルドしたソースコードをuglifyする,1
+318,JavaCVで画像処理,1
+341,JRebel でSpring Bootアプリケーションの快適リローディング (IntelliJ IDEA編),1
+350,JPA 2.1のエンティティグラフについて,1
+375,Spring MVCの@DateTimeFormatで和暦パターンを扱う方法,1
+400,Nexus RepositoryのDocker Registryを使ってオフラインでConcourse CIを使う,1
+454,CFCRでデプロイしたKubernetes on AWSをSpot Instanceにする,1
+472,Cloud FoundryのJava BuildpackでAmazon Correttoを使う,1
+478,Pivotal Application Service (PAS) on AWSをPrometheusでモニタリング,1
+481,Pivotal Application Service (PAS) 2.4をCLIでAzureにインストールするメモ,1
+498,Pivotal Application Service上のアプリメトリクスをPrometheusでScrapeする方法,1
+503,Spring WebFlux.fnハンズオン - 4. R2DBCによるデータベースアクセス,1
+522,BOSHのops-fileをyttのoverlayで書き直す,1
+525,Evictedなpodをまとめて削除するメモ,1
+544,ytt(YAML Templating Tool)入門 - Templating編,1
+610,Cloud Native Buildpacks Tutorial - 8.1. ┗ Cloud Native BuildpacksでビルドしたOCIイメージをCloud Foundry(Pivotal Web Services)へデプロイ,1
+626,Spring Boot 2.4で導入されたConfig TreeでKubernetesのSecretの値をSpring Bootアプリのプロパティに設定,1
+647,愛犬が1歳を迎えたので買ってよかったもの・サービスをまとめる,1
+655,VMware Tanzu SQL with Postgres for Kubernetes 1.2をインストールしてSpring Bootアプリからアクセスするメモ,1
+656,Thymeleafテンプレートを使ってJdbcTemplateで動的なSQLを実行する,1
+697,"Tanzu Application Platform 1.1を4 cpu, 8 GB memoryのminikubeにLocal Registryを使ってインストールするメモ",1
+715,5年ぶりのメジャーアップデート! Spring Framework 6 & Spring Boot 3,1
+723,Tanzu Application Platform 1.3のMulti Cluster構成をAKSにインストールするメモ,1
+724,Tanzu Application Platformのsource-test-scan-to-url Supply ChainでSorurce Scannerを除外するメモ,1
+728,JavaでWebAssemblyを生成してみる,1
+745,Spring IntegrationでPollingベースのOutboxパターンを実装する,1
+746,Docker Desktop for Mac代替のOrbStackがすごい,1
+758,JupyterでJava Kernelを使うメモ,1
+767,SLF4J互換のrate-limited-loggerを使うメモ,1
+800,"JJUG CCC 2024 Springで""知名度は高くないけど便利なJavaライブラリ集""について話してきました。",1
+801,VMware Tanzu Operations Manager 3.0とBOSH DirectorをAWSにインストールするメモ,1
+810,CredHub Service Broker 1.6をインストールするメモ,1
+813,MicrometerのメトリクスにJVMのバージョン情報を付与するPromQLメモ,1
+816,Spring BootでmTLS(Mutual TLS)の設定メモ,1
+828,llama-cppのOpenAI互換サーバー機能を使ってSpring AIからアクセスする,1
+838,llama.cppでDeepSeek-R1-Distill-Qwen-32B-Japaneseを動かしてSpring AIからアクセスする,1
+845,Spring Batch + Spring BootでJob内で利用するデータベースとJobを管理するデータベースを別々にするメモ,1
+846,Geminiの無料枠でOpenAI APIを使ってSpring AIからアクセスする (MCP連携あり),1
+848,Spring Bootで作ったAPIのUIをClaudeに作らせるTips,1
+851,SendGrid SDKを使わずSpringのRestClientで直接APIを呼び出してメール送信するメモ,1
+855,MicroK8s(というより任意のK8s)でIRSAを使えるようにするメモ,1
+861,テスタビリティの高いjava.nio.file.Pathの作り方,1
+862,MongoDB互換のFerretDBにSpring Boot + Testcontainersでアクセスするメモ,1
+866,Tanzu Greenplum on Kubernetes 1.0をインストールするメモ,1
